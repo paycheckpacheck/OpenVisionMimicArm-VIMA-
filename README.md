@@ -3,6 +3,7 @@ Welcome to the OpenVIMA GitHub Project!
 <img width="423" alt="VIMA_LOGO" src="https://github.com/paycheckpacheck/OpenVisionMimicArm-VIMA-/assets/140981896/6f5ba1ed-0854-47c5-a3fd-7fa22ead83cb">
 
 OpenVisionMimicArm (VIMA) is a fun GUI project for interactive robot control and hand tracking of a URDF 6 DoF robot. It integrates IK and FK solvers, computer vision for hand tracking and finding user limb angle info, to  write to a robot plot and/or to a serial interfaced robot.
+<img width="1117" alt="image" src="https://github.com/paycheckpacheck/OpenVisionMimicArm-VIMA-/assets/140981896/768dbc10-c721-4fd5-9fac-634ee53235de">
 
 OpenVisionMimicArm (VIMA) is a cutting-edge Graphical User Interface (GUI) project designed to provide seamless control and hand tracking capabilities for a URDF 6 degrees-of-freedom robot. Through the power of Inverse Kinematics (IK) and Forward Kinematics (FK) solvers, combined with intuitive sliders, users can effortlessly manipulate the robot's movements and visualize its position and orientation.
 
